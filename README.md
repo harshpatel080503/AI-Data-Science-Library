@@ -12,7 +12,6 @@ This repository hosts a curated set of high-quality books For learners, research
 - [🗂️ Folder Structure](#️-folder-structure)
 - [👨‍💻 Who Should Use This?](#-who-should-use-this)
 - [📥 How to Use](#-how-to-use)
-- [📢 Disclaimer](#-disclaimer)
 - [🤝 Contributions](#-contributions)
 - [⭐ Stay Connected](#-stay-connected)
 
