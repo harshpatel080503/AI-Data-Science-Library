@@ -48,7 +48,7 @@ This repository hosts a curated set of high-quality books for learners, research
     📕 Speech and Language Processing (3rd Edition).pdf
 
 📁 Python/
-    📕 Programming Python 4e - O'Reilly (2010).pdf
+    📕 Programming Python 4e - OReilly (2010).pdf
 
 📁 Generative AI (e.g., GPT, DALL·E, Stable Diffusion)/
     📕 2910_Generative-Deep-Learning.pdf
