@@ -1,7 +1,7 @@
 # 📚 AI & Data Science Library
 
 Welcome to the **Ultimate Collection of Books on Data Science, Artificial Intelligence, and Generative AI**!  
-This repository hosts a curated set of high-quality books for learners, researchers, and professionals interested in the evolving field of AI.
+This repository hosts a curated set of high-quality books For learners, researchers, and professionals interested in the evolving field of AI.
 
 ---
 
@@ -13,7 +13,7 @@ This repository hosts a curated set of high-quality books for learners, research
 - 🧾 **Natural Language Processing (NLP)**
 - 👁️ **Python**
 - 🌈 **Generative AI (e.g., GPT, DALL·E, Stable Diffusion)**
-- 🧮 **Mathematics for Data Science**
+- 🧮 **Mathematics For Data Science**
 
 ---
 
@@ -27,7 +27,7 @@ This repository hosts a curated set of high-quality books for learners, research
 📁 MachineLearning/
     📕 Building Machine Learning Systems with Python - Second Edition.pdf
     📕 Data Mining - Practical Machine Learning Tools and Techniques (2nd Edition).pdf
-    📕 Feature Engineering for Machine Learning.pdf
+    📕 Feature Engineering For Machine Learning.pdf
     📕 Foundations of Machine Learning (2nd Edition).pdf
     📕 HandsonMachine-Learning-with-Scikit-2E -1.pdf
     📕 Machine Learning - A Probabilistic Perspective.pdf
@@ -43,8 +43,8 @@ This repository hosts a curated set of high-quality books for learners, research
 📁 Natural Language Processing (NLP)/
     📕 Natural Language Processing with Python.pdf
     📕 Natural Language Processing.pdf
-    📕 naturallanguageannotationformachinelearning.pdf
-    📕 Neural Network Methods for Natural Language Processing.pdf
+    📕 naturallanguageannotationFormachinelearning.pdf
+    📕 Neural Network Methods For Natural Language Processing.pdf
     📕 Speech and Language Processing (3rd Edition).pdf
 
 📁 Python/
@@ -54,15 +54,15 @@ This repository hosts a curated set of high-quality books for learners, research
     📕 2910_Generative-Deep-Learning.pdf
     📕 Auffarth Ben - Generative AI with LangChain - 2023.pdf
     📕 Designing Large Language Model Applications (2023).pdf
-    📕 Hands-On Generative AI with Transformers and Diffusion.pdf
+    📕 Hands-On Generative AI with TransFormers and Diffusion.pdf
     📕 Jay  Alammar, Maarten Grootendorst - Hands-On Large Language Models.pdf
-    📕 natural-language-processing-with-transformers-revised-edition.pdf
+    📕 natural-language-processing-with-transFormers-revised-edition.pdf
     📕 Pretrain Vision and Large Language Models in Python (2023).pdf
-    📕 Transformers for NLP.pdf
+    📕 TransFormers For NLP.pdf
 
-📁 Mathematics for Data Science/
+📁 Mathematics For Data Science/
     📕 ISLR Seventh Printing.pdf
-    📕 Linear Algebra for Data Science.pdf
+    📕 Linear Algebra For Data Science.pdf
     📕 The Elements of Statistical Learning (2nd Edition).pdf
 ```
 
