@@ -5,6 +5,17 @@ This repository hosts a curated set of high-quality books For learners, research
 
 ---
 
+## 🧭 Table of Contents
+
+- [📚 AI & Data Science Library](#-ai--data-science-library)
+- [🚀 Topics Covered](#-topics-covered)
+- [🗂️ Folder Structure](#️-folder-structure)
+- [👨‍💻 Who Should Use This?](#-who-should-use-this)
+- [📥 How to Use](#-how-to-use)
+- [📢 Disclaimer](#-disclaimer)
+- [🤝 Contributions](#-contributions)
+- [⭐ Stay Connected](#-stay-connected)
+
 ## 🚀 Topics Covered
 
 - 📊 **Artificial Intelligence**
@@ -72,3 +83,31 @@ This repository hosts a curated set of high-quality books For learners, research
 - 🔬 **Researchers & Academicians**
 - 🧑‍💼 **Professionals Upskilling in AI**
 - 🚀 **AI/ML Enthusiasts and Hackathon Participants**
+
+## 📥 How to Use
+
+1. **Clone this repository** to your local system:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+2. Navigate through folders to find the book you need.
+3. Open and read the PDFs using any standard PDF reader.
+
+## 🤝 Contributions
+
+Have a book to add? You're welcome to contribute!
+
+1. **Fork** the repository  
+2. **Add** your book inside the relevant folder  
+3. **Commit** your changes  
+4. **Create a Pull Request**
+
+📌 You can also **open an Issue** if you have suggestions, corrections, or feedback.
+
+---
+
+## ⭐ Stay Connected
+
+- **GitHub:** [harshpatel080503](https://github.com/harshpatel080503)  
+- **LinkedIn:** [Harsh Patel](https://www.linkedin.com/in/harsh-patel-57540922a)
