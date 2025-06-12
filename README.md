@@ -28,7 +28,7 @@ This repository hosts a curated set of high-quality books For learners, research
 
 ---
 
-## 🗂️ Folder Structure (Sample)
+## 🗂️ Folder Structure
 
 ```bash
 📁 Artificial Intelligence/
