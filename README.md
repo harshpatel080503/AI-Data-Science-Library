@@ -3,11 +3,6 @@
 Welcome to the **Ultimate Collection of Books on Data Science, Artificial Intelligence, and Generative AI**!  
 This repository hosts a curated set of high-quality books for learners, researchers, and professionals interested in the evolving field of AI.
 
-![Repo Size](https://img.shields.io/github/repo-size/harshpatel080503/AI-Data-Science-Library?color=blue)
-![Stars](https://img.shields.io/github/stars/harshpatel080503/AI-Data-Science-Library?style=social)
-![Forks](https://img.shields.io/github/forks/harshpatel080503/AI-Data-Science-Library?style=social)
-![License](https://img.shields.io/github/license/harshpatel080503/AI-Data-Science-Library)
-
 ---
 
 ## 🚀 Topics Covered
