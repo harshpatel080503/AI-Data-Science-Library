@@ -89,7 +89,7 @@ This repository hosts a curated set of high-quality books For learners, research
 1. **Clone this repository** to your local system:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/harshpatel080503/AI-Data-Science-Library.git
    ```
 2. Navigate through folders to find the book you need.
 3. Open and read the PDFs using any standard PDF reader.
